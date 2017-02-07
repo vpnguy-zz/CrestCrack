@@ -18,9 +18,9 @@ CrestCrack is a simple script that exploits CVE-2016-5640 / CLVA-2016-05-002 wit
  
 
 ## Additional Vulnerability Information:
-[Cylance Vulnerability Disclosure]("https://github.com/CylanceVulnResearch/disclosures/blob/master/CLVA-2016-05-002.md")
+[Cylance Vulnerability Disclosure](https://github.com/CylanceVulnResearch/disclosures/blob/master/CLVA-2016-05-002.md)
 
-[NIST CVE-2016-5640]("https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-5640")
+[NIST CVE-2016-5640](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-5640)
 
 ## To be added:
 - Error handling/bounds checking
